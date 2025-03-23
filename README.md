@@ -1,4 +1,4 @@
-# 🧠 ADHD Helper App – Your Personal Focus Sidekick!
+# 🧠 ADHD Assistance App – Your Personal Focus Sidekick!
 
 Ever find yourself **staring at a task for hours** but somehow end up watching cat videos instead? Or maybe you start cleaning your room, then halfway through, you’re organizing your sock drawer, researching space travel, and wondering if you should finally learn Spanish? 🌎🐱🚀  
 
